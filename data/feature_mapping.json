@@ -1,0 +1,28 @@
+{
+  "encoding_mapping": {
+    "attrition_risk_category": [
+      "Medium_Risk",
+      "Low_Risk",
+      "High_Risk"
+    ]
+  },
+  "engineered_features": [
+    "salary_to_income_ratio",
+    "workload_score",
+    "career_progress_ratio",
+    "promotion_frequency",
+    "job_change_frequency",
+    "satisfaction_index",
+    "attrition_risk_score",
+    "attrition_risk_category",
+    "average_rating",
+    "engagement_potential"
+  ],
+  "sentiment_features": [
+    "sentiment_compound",
+    "sentiment_positive",
+    "sentiment_negative",
+    "sentiment_neutral",
+    "sentiment_label"
+  ]
+}
