@@ -10,6 +10,12 @@ This project analyzes HR employee data to identify patterns and predictors of at
 - **Risk Assessment**: Quantitative attrition risk scoring and categorization
 - **Data Visualization**: Interactive dashboards and comprehensive EDA visualizations
 
+## 📊 Dashboard Preview
+
+![Dashboard Preview](image.png)
+
+Note: This is a prototype version of the Employee Feedback Sentiment Analysis & Workforce Insights Dashboard. It showcases the intended design, analytical approach, and core KPIs. The project is actively being refined with additional enhancements and optimizations planned.
+
 ## Dataset
 
 - **Source**: HR Employee Attrition Dataset
